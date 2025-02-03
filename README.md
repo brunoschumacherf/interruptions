@@ -9,7 +9,7 @@ Este projeto tem como foco aprofundar o conhecimento sobre **interrupções** no
 - Uso de **resistores pull-up internos**
 
 O objetivo é integrar hardware e software para criar uma aplicação interativa e funcional.
-Além disso, é possível testar o projeto usando a ferramenta Wowki, que facilita a simulação e verificação do comportamento do código de forma prática.o
+Além disso, é possível testar o projeto usando a ferramenta Wowki, que facilita a simulação e verificação do comportamento do código de forma prática.
 
 ---
 
